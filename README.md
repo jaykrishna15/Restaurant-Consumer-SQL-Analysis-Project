@@ -93,5 +93,5 @@ By completing this project, I gained hands-on experience in:
 
 ## 🚀 Author
 
-**Simakurthi Dinesh Hemanth**  
+**Jaya Krishna Golla**  
 SQL | Data Analytics | Learning Journey
